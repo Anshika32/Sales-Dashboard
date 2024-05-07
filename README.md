@@ -5,7 +5,7 @@ This repository contains a Sales Dashboard designed to provide valuable insights
 ## Insights Included:
 
 ### Overall Performance Matrics:
-**a. Total Revenue:** The total income generated from sales.\n
+**a. Total Revenue:** The total income generated from sales./n
 **b. Total Profit:** The overall profit generated from sales.
 **c. Total Quantity Sold:** The total quantity of products sold.
 
