@@ -1,3 +1,5 @@
+![image](https://github.com/Anshika32/Sales-Dashboard/assets/121334039/5b1f2141-ada3-4d67-9549-72fb75609d3d)
+
 # Sales Dashboard Repository
 
 This repository contains a Sales Dashboard designed to provide valuable insights into sales performance metrics. The dashboard includes various visualizations and analyses to help businesses understand their sales data effectively.
